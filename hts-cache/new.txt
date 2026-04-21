@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:15:00	149/149	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2021%20Apr%202026%2019:14:59%20GMT	http://test.zx9.lol:30031/robots.txt		(from )
+22:15:01	22799/22799	---M--	200	added ('OK')	text/html	date:Tue,%2021%20Apr%202026%2019:15:00%20GMT	http://test.zx9.lol:30031/	C:/Users/ADMIN/pidor/test.zx9.lol_30031/index.html	(from )
+22:15:01	34045/34045	---M--	200	added ('OK')	image/jpeg	etag:%2245f0baa18b635e115620694eac5063b7%22	https://i.pinimg.com/736x/a5/24/84/a5248413f4f185f67e4dc5db292264bd.jpg	C:/Users/ADMIN/pidor/i.pinimg.com/736x/a5/24/84/a5248413f4f185f67e4dc5db292264bd.jpg	(from http://test.zx9.lol:30031/)
+22:15:04	142/142	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2021%20Apr%202026%2019:15:03%20GMT	http://test.zx9.lol:30031/raw	C:/Users/ADMIN/pidor/test.zx9.lol_30031/raw	(from http://test.zx9.lol:30031/)
+22:15:10	202446/202446	---M--	200	added ('OK')	image/png	date:Tue,%2021%20Apr%202026%2019:15:01%20GMT	http://test.zx9.lol:30031/api/getavatar	C:/Users/ADMIN/pidor/test.zx9.lol_30031/api/getavatar.png	(from http://test.zx9.lol:30031/)
